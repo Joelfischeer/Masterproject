@@ -5,7 +5,7 @@ further consists of an AI-Assistance tool automatically segments lesions and all
 was performed in the jupyther Notebook files. 
 
 The following environment file was used:
-environment.yaml
+environment.yml
 
 General_calculations.ipynb: Performance metrics calculations, Heatmap plots.
 
