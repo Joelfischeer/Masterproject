@@ -1,0 +1,13 @@
+name: demoenv
+channels:
+- anaconda
+- conda-forge
+- defaults
+dependencies:
+- python=3.11
+- pip
+- pip:
+  - matplotlib
+  - seaborn
+  - ipykernel
+  - tensorflow
