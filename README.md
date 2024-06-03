@@ -1,6 +1,6 @@
 # Masterproject
 
-This project consisted of a benchmark study which compares three radiologists of different experience levels in detecting clinically significant prostate cancer. The analysis 
+This project consisted of a benchmark study which compares several radiologists in detecting clinically significant prostate cancer. The analysis 
 further consists of an AI-Assistance tool, that automatically segments lesions and allows to compare state-of-the-art manual with AI-Assisted lesion segmentation. The data analysis
 was performed in the jupyther Notebook files. 
 
